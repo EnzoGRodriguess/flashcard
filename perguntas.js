@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Times',
+    'Em que ano o Corinthians conquistou seu priimeiro titulo mundial?',
+    'O Corinthians conquistou este titulo no dia 14 de janeiro de 2000 contra o Vasco'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Times',
+    'Qual o maior time de São Paulo?',
+    'O Corinthians'
 )
 
 criaCartao(
