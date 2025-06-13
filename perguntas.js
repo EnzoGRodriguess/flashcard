@@ -1,23 +1,23 @@
 criaCartao(
-    'Times',
+    'Mundial de clubes',
     'Em que ano o Corinthians conquistou seu priimeiro titulo mundial?',
     'O Corinthians conquistou este titulo no dia 14 de janeiro de 2000 contra o Vasco'
 )
 
 criaCartao(
-    'Times',
+    'Times gigantes',
     'Qual o maior time de São Paulo?',
     'O Corinthians'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'CONMEBOL Libertadores',
+    'Em que ano o Corinthians venceu a libertadores invicto?',
+    'Em 2012 com uma vitoria contra o Boca Juniors por 2 a 0 no Pacaembu'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O heroi',
+    'Quem foi o heroi na final contra o Chelsea em 2012?',
+    'Foi o Guerrero marcando um importantissimo gol'
 )
