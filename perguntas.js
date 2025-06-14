@@ -1,23 +1,42 @@
-criaCartao(
-    'Mundial de clubes',
-    'Em que ano o Corinthians conquistou seu priimeiro titulo mundial?',
-    'O Corinthians conquistou este titulo no dia 14 de janeiro de 2000 contra o Vasco'
-)
-
-criaCartao(
-    'Times gigantes',
-    'Qual o maior time de São Paulo?',
-    'O Corinthians'
-)
-
-criaCartao(
-    'CONMEBOL Libertadores',
-    'Em que ano o Corinthians venceu a libertadores invicto?',
-    'Em 2012 com uma vitoria contra o Boca Juniors por 2 a 0 no Pacaembu'
-)
-
-criaCartao(
-    'O heroi',
-    'Quem foi o heroi na final contra o Chelsea em 2012?',
-    'Foi o Guerrero marcando um importantissimo gol'
-)
+const perguntas = [
+  {
+    categoria: "História",
+    pergunta: "Quando o Corinthians foi fundado?",
+    resposta: "25 de setembro de 1910."
+  },
+  {
+    categoria: "Apelido",
+    pergunta: "Qual é o apelido do Corinthians?",
+    resposta: "Timão."
+  },
+  {
+    categoria: "Títulos",
+    pergunta: "Quantos títulos do Campeonato Brasileiro o Corinthians tem?",
+    resposta: "7 títulos."
+  },
+  {
+    categoria: "Torcida",
+    pergunta: "Qual é o nome da torcida organizada do Corinthians?",
+    resposta: "Gaviões da Fiel."
+  },
+  {
+    categoria: "Estádio",
+    pergunta: "Qual estádio o Corinthians usa como casa?",
+    resposta: "Arena Corinthians, também conhecida como Itaquerão."
+  },
+  {
+    categoria: "Artilheiro",
+    pergunta: "Quem é o maior artilheiro da história do Corinthians?",
+    resposta: "Cláudio (Claudinho) com 306 gols."
+  },
+  {
+    categoria: "Rivalidade",
+    pergunta: "Qual é o maior rival do Corinthians?",
+    resposta: "Palmeiras."
+  },
+  {
+    categoria: "Conquistas",
+    pergunta: "Em que ano o Corinthians ganhou o Mundial de Clubes da FIFA pela primeira vez?",
+    resposta: "2012."
+  }
+];
